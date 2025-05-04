@@ -1,4 +1,4 @@
-                                                  **********Banking Simulation***************
+**********Banking Simulation***************
 
 ***************Overview***************
 
