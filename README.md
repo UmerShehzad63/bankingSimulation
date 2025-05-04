@@ -23,6 +23,7 @@ Git
 **************Installation**************
 
 Clone the repository:git clone https://github.com/UmerShehzad63/bankingSimulation.git
+
 cd bankingSimulation
 
 **************Install required libraries**************
