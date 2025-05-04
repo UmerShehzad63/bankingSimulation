@@ -22,7 +22,7 @@ Git
 
 **************Installation**************
 
-Clone the repository:git clone https://github.com/UmerShehzad63/bankingSimulation.git
+Clone the repository:    git clone https://github.com/UmerShehzad63/bankingSimulation.git
 
 cd bankingSimulation
 
